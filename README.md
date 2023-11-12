@@ -5,26 +5,26 @@ Welcome to my GitHub project, where I present a comprehensive journey in develop
 # Highlights of My Work:
 
 1. Data Preparation and Analysis:
-        I meticulously prepared the data, including the dimensions and composition elements of the banknotes.
-        In-depth data analysis was conducted to lay the groundwork for the model development.
+- I meticulously prepared the data, including the dimensions and composition elements of the banknotes.
+- In-depth data analysis was conducted to lay the groundwork for the model development.
 
 2. Linear Regression for Missing Values:
-        Employed linear regression to impute missing values, ensuring data integrity and robustness.
+- Employed linear regression to impute missing values, ensuring data integrity and robustness.
 
 3. Descriptive and Bivariate Analysis:
-        Conducted univariate and bivariate analyses to understand the distribution of variables and their impact on the authenticity of banknotes.
+- Conducted univariate and bivariate analyses to understand the distribution of variables and their impact on the authenticity of banknotes.
 
 4. Unsupervised Classification Techniques:
-        Utilized hierarchical clustering and k-means algorithm, along with principal component analysis, to classify the data effectively.
+- Utilized hierarchical clustering and k-means algorithm, along with principal component analysis, to classify the data effectively.
 
 5. Supervised Classification Methods:
-        Developed models using logistic regression, decision trees, random forests, and pipeline approaches, demonstrating a versatile skill set in predictive modeling.
+- Developed models using logistic regression, decision trees, random forests, and pipeline approaches, demonstrating a versatile skill set in predictive modeling.
 
 6. Model Evaluation and Testing:
-        Applied cross-validation techniques and control sample testing to ensure the accuracy and reliability of the models.
+- Applied cross-validation techniques and control sample testing to ensure the accuracy and reliability of the models.
 
 7. Comprehensive Conclusion:
-        The project culminates in a thorough evaluation, showcasing the effectiveness of the final model in counterfeit detection.
+- The project culminates in a thorough evaluation, showcasing the effectiveness of the final model in counterfeit detection.
 
 # Closing Remarks:
 
