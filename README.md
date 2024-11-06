@@ -1,6 +1,6 @@
 Fake Bill Detection with Python
 
-This project focuses on building a model to detect counterfeit bills using machine learning techniques. You'll apply various data science skills, including data analysis, model building, and result presentation.
+This project focuses on building a model to detect counterfeit bills using machine learning techniques. I've applied various data science skills, including data analysis, model building, and result presentation.
  
 Key Skills Acquired:
 
