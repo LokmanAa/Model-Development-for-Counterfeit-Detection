@@ -1,4 +1,4 @@
-Fake Bill Detection with R/Python
+Fake Bill Detection with Python
 
 This project focuses on building a model to detect counterfeit bills using machine learning techniques. You'll apply various data science skills, including data analysis, model building, and result presentation.
  
@@ -12,7 +12,7 @@ Key Skills Acquired:
 
 Technologies Used:
 
-    Python / R: Data processing, model building, and analysis.
+    Python: Data processing, model building, and analysis.
     Scikit-learn: For building classification models and performing regression analysis.
     Pandas / NumPy: Data manipulation and preparation.
     Matplotlib / Seaborn: Data visualization to interpret model results.
